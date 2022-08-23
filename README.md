@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabiadochris
 - 👀 I’m interested in Technology.
-- 🌱 I’m currently learning Front-End Web Dev || UI/UX || Project Management || 
+- 🌱 I’m a Front-End Web Dev || UI/UX Designer || Project Management || 
 - 💞️ I’m looking forward to working with you.
 - 📫 How to reach me on https://www.linkedin.com/in/christian-gabriel-7b5103204/ || https://web.facebook.com/gabriel.christian.5473
 
